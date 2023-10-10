@@ -1,0 +1,17 @@
+.warna {
+    display: flex;
+    background-color: cyan; /* Warna latar belakang body */
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  }
+  
+  .box {
+    width: 300px; /* Lebar kotak tengah */
+    height: 400px; /* Tinggi kotak tengah */
+    background-color: white; /* Warna latar belakang kotak tengah */
+    border: 1px solid #ccc; /* Garis tepi kotak tengah */
+    text-align: left; /* Teks di tengah kotak */
+    padding: 20px; /* Ruang dalam kotak tengah */
+    margin-top: 20vh;
+  }
